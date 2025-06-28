@@ -1,0 +1,17 @@
+---
+layout: post
+title: The Space between the Walls
+date: 2025-06-28 17:48 +0200
+categories: [short-stories]
+tags: [history, fiction]
+---
+
+The first night was the worst. The wails started to appear around that afternoon after they had realized the Romans would not let them evacuate. Already starving earlier, when they had been cast out, they grew more and more desperate in their impotence to change what the Gods had determined to be their fate, and possibly all of ours as well. Vercingetorix was adamant to not let them inside again. They were useless mouths and our chances multiplied without them, more so if they weakened our enemies’ morale or if some Roman guards could not bear the cries of desolate children any longer and slipped them some of their supplies. But we knew Caesar was callous, as we were it too.
+
+I’m not from here, so these are not my people, even if Vercingetorix is said to rule over all us Gauls as king. But in the time that has passed since we set up here, I got to watch them and with every day their eyes grew wider in terror as the Romans constructed our enclosure, cutting down the surrounding woods our involuntary hosts had known their whole lives. They did not choose this—we chose them. And history chose us and Vercingetorix. Now, the crying echoes of inconsolable mothers, robbed of the shelters of their own homes, of the food they had themselves harvested not long ago with their own hands, and most hauntingly, of the futures of their children, bounce from wall to wall until they will slowly fade and seep into the muddy ground to mark the spot where history came to Gaul.
+
+My village is several days to the north of here and much smaller than this place. In this life, you can only hope for short winters and for yourself and your family, while living stationary lives, not crossing paths with armies, foreign or local. Because what really traverses the world is not a person’s body and possessions, but rather time, and the instruments of war, be they trumpets or horns. Only few people are lucky never to collide during their lifetime with these masses of progression, silent from afar, but deafening so suddenly, once they have pierced the invisible barrier into one’s world. We have taken from many villages on our way here, more than they could give, and have exacted justice on those who did not fall in line behind our new king. Now, finally, we have brought our horns to these people.
+
+There are still some skeletons left, ill-looking and unkempt, death-marching from one palisade to the other, only to have their pleading ignored and stones slung at them. In a sense, they are reassuring, in that they desire still to fight for their lives. We have not robbed them of that. The catatonic families are much worse, I can hardly tell of it. The huddles of the semi-living strewn across the grassy landscape, a walled garden ornamented with graying limbs that cannot comfort each other, and eyes asking questions into empty space. They surely must feel betrayed, not just by us, their self-professed liberators, but by life itself and have thus lost their attachment to it out of acrid disdain.
+
+I don’t know why we set up our stand here, it could have been a few villages over in that direction or this, but it sounded like a good plan at first, on this fortified hill with our allies so close by. But as has become apparent, we cannot be sure of divine blessings in our human interventions. There exists only one true direction. And now the world will evermore weep for poor Alesia.
