@@ -136,12 +136,12 @@ tags: [social psychology]
       Our character:<br>typical for us
     </div>
     <div class="quadrant situational" tabindex="0">
-      External circumstances:<br>exceptional for them
+      External circumstances:<br>atypical for them
     </div>
 
     <div class="axis-label" tabindex="0">Negative Behavior</div>
     <div class="quadrant situational" tabindex="0">
-      External circumstances:<br>exceptional for us
+      External circumstances:<br>atypical for us
     </div>
     <div class="quadrant dispositional" tabindex="0">
       Their character:<br>typical for them
