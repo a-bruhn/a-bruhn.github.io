@@ -11,10 +11,10 @@ tags: [social psychology]
 <style>
   :root {
     --color-dispositional: rgba(135, 206, 250, 0.3);
-  --color-dispositional-shadow: rgba(135, 206, 250, 0.6);
+    --color-dispositional-shadow: rgba(135, 206, 250, 0.6);
 
-  --color-situational: rgba(72, 209, 204, 0.3);
-  --color-situational-shadow: rgba(72, 209, 204, 0.6);
+    --color-situational: rgba(72, 209, 204, 0.3);
+    --color-situational-shadow: rgba(72, 209, 204, 0.6);
   }
 
   .uae-container {
