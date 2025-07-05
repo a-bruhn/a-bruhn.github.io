@@ -24,13 +24,20 @@ tags: [social psychology]
   }
 
   .uae-table {
+    max-width: 100%;
+    box-sizing: border-box;
     display: grid;
     grid-template-columns: 110px 1fr 1fr;
-    grid-template-rows: 45px 200px 200px;
+    grid-template-rows: 45px auto auto;
     border-radius: 12px;
     overflow: hidden;
     user-select: none;
     background: transparent;
+  }
+
+  .uae-table-wrapper {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
   }
 
   .uae-table > div {
@@ -48,7 +55,7 @@ tags: [social psychology]
   .header-cell,
   .axis-label {
     font-weight: 700;
-    font-size: 1.1rem;
+    font-size: clamp(0.9rem, 2.5vw, 1.1rem);
     user-select: text;
     color: var(--text-light);
     transition: color 0.3s ease;
@@ -60,6 +67,7 @@ tags: [social psychology]
     padding: 0;
     box-shadow: inset 0 0 20px;
     font-weight: 600;
+    aspect-ratio: 1;
   }
 
   .quadrant.dispositional {
@@ -122,32 +130,52 @@ tags: [social psychology]
       color: var(--text-dark);
     }
   }
+
+  @media (max-width: 480px) {
+    .uae-table > div {
+      font-size: 0.55rem;
+      padding: 0.5em 0.6em;
+      grid-template-columns: 80px 1fr 1fr;
+    }
+    
+    .header-cell,
+    .axis-label {
+      font-size: 0.6rem;
+    }
+
+    .legend {
+      font-size: 0.6rem;
+    }
+
+    .legend-item {
+      gap: 0.3em;
+    }
+  }
+
 </style>
 
 <div class="uae-container" role="region" aria-label="Ultimate Attribution Error quadrant chart">
-  <div class="uae-table" aria-describedby="legend">
-    
-    <div></div>
-    <div class="header-cell" tabindex="0">Ingroup</div>
-    <div class="header-cell" tabindex="0">Outgroup</div>
-
-    <div class="axis-label" tabindex="0">Positive Behavior</div>
-    <div class="quadrant dispositional" tabindex="0">
-      Our character:<br>typical for us
-    </div>
-    <div class="quadrant situational" tabindex="0">
-      Exceptional case or external circumstances:<br>atypical for them
-    </div>
-
-    <div class="axis-label" tabindex="0">Negative Behavior</div>
-    <div class="quadrant situational" tabindex="0">
-      External circumstances:<br>atypical for us
-    </div>
-    <div class="quadrant dispositional" tabindex="0">
-      Their character:<br>typical for them
+  <div class="uae-table-wrapper">
+    <div class="uae-table" aria-describedby="legend">
+      <div></div>
+      <div class="header-cell" tabindex="0">Ingroup</div>
+      <div class="header-cell" tabindex="0">Outgroup</div>
+      <div class="axis-label" tabindex="0">Positive Behavior</div>
+      <div class="quadrant dispositional" tabindex="0">
+        Our character:<br>typical for us
+      </div>
+      <div class="quadrant situational" tabindex="0">
+        Exceptional case or external circumstances:<br>atypical for them
+      </div>
+      <div class="axis-label" tabindex="0">Negative Behavior</div>
+      <div class="quadrant situational" tabindex="0">
+        External circumstances:<br>atypical for us
+      </div>
+      <div class="quadrant dispositional" tabindex="0">
+        Their character:<br>typical for them
+      </div>
     </div>
   </div>
-
   <div id="legend" class="legend" aria-label="Attribution legend">
     <div class="legend-item">
       <div class="legend-color legend-dispositional"></div>
