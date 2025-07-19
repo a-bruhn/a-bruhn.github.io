@@ -26,4 +26,8 @@ I had tried to stay in college for the first few weeks, even though they were im
 
 ## 3
 
-We'd thought the world was full of conspiracy theorists and generally nuts people even before the signal. Now, that there is basically not much to do anymore, I'm not sure you could get together a small office birthday party or even a spontaneous dog-walking encounter on a neighborhood corner with only those who do not subscribe to some real out-there and frankly dangerous ideas. I mean, the entire thing is of course nuts, aliens and all, but take away people's purpose and they will not just be on edge, they'll gleefully tumble on razor-thin wire, ready to crash down on anyone who dares to walk by too close.
+We'd thought the world was full of conspiracy theorists and generally nuts people even before the signal. Now, that there is basically not much to do anymore, I'm not sure you could get together a small office birthday party or even a spontaneous dog-walking encounter on a neighborhood corner with only those who do not subscribe to some real out-there and frankly dangerous ideas. I mean, the entire thing is of course nuts, aliens and all, but take away people's purpose and they will not just be on edge. They'll gleefully tumble on razor-thin wire, ready to crash down on anyone who dares to walk by too close.
+
+At every family meal, I can see dad being sucked in further and further. I can of course empathize. It's a coping strategy. He's just trying to keep it together, but the tools are inherently destructive. He's becoming increasingly convinced that we haven't actually received an alien signal, that it's just a psy-op by "our enemies", whoever that currently is on the geopolitical stage, now that everything has been upended. 
+
+Dave's been even worse. 
