@@ -25,10 +25,27 @@ I had always loved these as a child, and even as a teenager during a time where 
 
 > _"I'm sorry, but do you think the beans might have gone bad? The coffee tastes a bit off."_
 >
-> _"Oh I'm so sorry dear, this is how it always tastes. We are not really connoisseurs, we just like to drink a cup here and there and buy our beans in a big bag, when we drive out to the big chain store. We don't even know what kind we're buying, we just take the cheapest one,"_ Marie replied.
+> _"Oh I'm so sorry dear, this is how it always tastes. We are not really connoisseurs, we just like to drink a cup here and there and buy our beans in a 50 pound bag, when we drive out to the big chain store. We don't even know what kind we're buying, we just take the cheapest one,"_ Marie replied.
 >
 > _"You are probably used to a lot better coffee at your university,"_ uncle Phil added. I could see a bit of earnest shame in his face.
 
-I immediately felt embarassed having mentioned it. 
+I immediately felt embarassed having mentioned it. The conversation shifted to uncle Phil's newest project, an indie sci-fi film. I remember telling him that I admired that he could work creatively and never had to be a corporate drone. He agreed, which brought us back to the topic of our last phone call, my studies. Uncle Phil assured me:
+
+> _"I know you're still searching for what you want to do with your life. The main thing is that you don't rush into things and don't just take the first path that just presents itself."
+>
+> _"I understand what you mean, but there is also a financial aspect. Dad is right, I cannot just drift all the time. I have to commit at some point. By the way, he told me to hug you from the family, both of you guys."_
+>
+> _"Send him our best wishes, dear. We will come visit maybe early next year, when it's still winter and there's not so much to do around here,"_ aunt Marie replied.
+>
+> _"I hope it may even be sooner. I miss you and your siblings so terribly. We don't see each other often, but I kind of think of you a bit as also my children,"_ uncle Phil interjected. I could see the honesty in that statement. However, he quickly apologized, as if coming to his sense:
+> _"I'm sorry, that must have sounded weird. Of course you are my brother's, but you know, It's sometimes strange where the mind takes you. Must be the scenery here."_
+>
+> _"Just makes him contemplate, always the thinker, you know,"_ Marie hastily agreed.
+
+It was still quite hot for September, so uncle Phil decided to prepare some fresh lemonade for us to enjoy. 
+
+<TODO: talking to Marie about the responsibilities of the farm and never having children>
+
+
 
 Sometimes it is just too late.
