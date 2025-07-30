@@ -6,9 +6,9 @@ categories: [short-stories]
 tags: [fiction]
 ---
 
-Last September I decided to visit my uncle Phil and his wife Marie at their old farmhouse. I hadn't been there in many years and the last time I saw them was during my high school graduation. We always had a great relationship and messaged each other regularly. We even talked on the phone every couple of weeks, although he did most of the talking while Marie was always somewhere in the background saying a few words here and there. I knew he would be delighted to see me again and it was long overdue, but my motivation to do it then was in part selfish. I had just decided to switch majors, again. I just couldn't see myself in human resources. My parents, of course, were distraught. And I can totally see their point. I had promised them that this would be the right transition for me, something grounded and with good career opportunities, after I just couldn't take psychology any longer. I knew they would still support me, but after all the talking and negative aura, I just needed some affirmation by my favorite uncle. He always said that whatever decisions I make, the most important thing is that I do what feels right for me. I was young and what mattered was that I didn't rush into anything or just did something to please others. 
+Last September I decided to visit my uncle Phil and his wife Marie at their old farmhouse. I hadn't been there in many years and the last time I saw them was during my high school graduation, when they flew over to visit. We always had a great relationship and messaged each other regularly. We even talked on the phone every couple of weeks, although he did most of the talking while Marie was always somewhere in the background saying a few words here and there. I knew he would be delighted to see me again and it was long overdue, but my motivation to do it then was in part selfish. I had just decided to switch majors, again. I just couldn't see myself in human resources. My parents, of course, were distraught. And I can totally see their point. I had promised them that this would be the right transition for me, something grounded and with good career opportunities, after I just couldn't take psychology any longer. I knew they would still support me, but after all the talking and negative aura, I just needed some affirmation by my favorite uncle. He always said that whatever decisions I make, the most important thing is that I do what feels right for me. I was young and what mattered was that I didn't rush into anything or just did something to please others. 
 
-The house was located on a shallow slope and quite large. There was a large backyard with lots of homegrown produce and on the other side towards the hill a breathtaking wild meadow. It wasn't really that wild, as uncle Phil was always proud to proclaim, since it still needed a lot of effort to keep in its state, but the sheer diversity of wild flowers and weeds, the white, purple, red, and yellow patterns, was just so gorgeous, it really belonged on a wallpaper. The afternoon I visited, we sat in full view of it, below a giant oak tree, on a set of collapsible chairs around a metal garden table with a clipped-on rubbery tablecloth on it. All around us insects were buzzing about.
+The house was located on a shallow slope and quite large. I had to park further down the hill, since I did not book early enough to snatch an offroad-capable rental car. There was a large backyard with lots of homegrown produce and on the other side towards the hill a breathtaking wild meadow. It wasn't really that wild, as uncle Phil was always proud to proclaim, since it still needed a lot of effort to keep in its state, but the sheer diversity of wild flowers and weeds, the white, purple, red, and yellow patterns, was just so gorgeous, it really belonged on a wallpaper. The afternoon I visited, we sat in full view of it, below a giant oak tree, on a set of collapsible chairs around a metal garden table with a clipped-on rubbery tablecloth on it. All around us insects were buzzing about.
 
 The house belonged to Marie's parents. After they died in the 00's, uncle Phil and her moved in. This meant being away from his brother (my father) and us at the coast, but how could you say no to such an estate. They sold off the farmland but kept the house and nearly two acres of garden.  Since then, the house itself has somewhat fallen into disrepair—not by much, but it was obvious that greater renovations were overdue. They never seemed like they had money problems: both had been successful in their careers and managed to retire way ahead of what the vast majority of people could even dream of, including my parents. On top of that, my uncle still composed for smaller movies and video games from time to time with considerable success. Somehow, yet, the house and shed seemed to only have received surface-level repairs over the last few decades.
 
@@ -44,15 +44,21 @@ I immediately felt embarassed having mentioned it. The conversation shifted to u
 
 It was still quite hot for September, so uncle Phil decided to prepare some fresh lemonade for us to enjoy. 
 
-<TODO: talking to Marie about the responsibilities of the farm and never having children>
+> _"I'm sorry if I come off snappy sometimes,"_ aunt Marie suddenly uttered..
+>
+> _"Oh I hadn't noticed anything like that."_
+
+I really hadn't. 
+
+> _"It's just that after more than two decades it's always very obvious when he's sad. He really wishes he could have spent more time with you guys. But he will be fine, it's just for the moment. Compromise and sacrifice are part of every relationship and one has to make sure not to wallow too much in one's own nobility,"_ she added.
 
 When uncle came back, he carried a big pitcher of a dark yellow liquid with freshly cut lemons and at least 3 cups of ice. He marched towards us from the house, holding it in one hand, with the other holding onto his beige summer hat. The condensation dripped from the glass onto the spotty grass, mimicking his pace.
 
-The thirst-inducing image of the pitcher quickly turned sour when the color became clearer. It looked murky in a concerning way. And the smell: It was putrid, much worse than the coffee. I tried to bring my nose closr to inspect it but immediately began retching.
+The thirst-inducing image of the pitcher quickly turned sour when the color became clearer. It looked murky in a concerning way. And the smell: It was putrid, much worse than the coffee. I tried bringing my nose closer to inspect it but immediately began retching.
 
 > _"Oh are you not feeling well, dear?,"_ Marie asked me, concerned.
 >
-> _"What is in this water? Something's not right here"_, I stated und my own heavy breath.
+> _"What is in this water? Something's not right here"_, I stated under my own heavy breath.
 >
 > _"Oh it's just the way the water is out here. There must be rust in the pipes or the plumbing at the cistern up on the hill."_, my uncle reassured me.
 >
@@ -63,16 +69,20 @@ Before I could grasp the situation or even intervene, uncle Phil poured the liqu
 
 > _"See, it just takes some getting used to, but this is how life is in the countryside. It actually had been much worse a few weeks ago, but was already getting better."_
 
-I couldn'd believe my eyes. This was not normal. I screamed:
+I couldn't believe my eyes. This was not normal. I screamed:
 
-> _"Can't you understand? There's something in the water."_
+> _"Can't you understand? Something's with the water. This is not something you can ignore!"_
 
-<TODO: More back and forth>
+They just looked at me in shock, like I was experiencing an out-of-the-blue teenage outburst.
 
-I sprinted the roughly 50 yards up the hill. The water tank was buried, so I checked the collection system, but the gutters looked clean, nothing but a few early fallen leaves. I went around the hill, looking for a hatch so I could inspect the inside, but then I noticed this smell again. I squinted my eyes and scanned the surroundings until I saw an opening. Coming closer, I could tell it was the source of this horrendous smell. Apparently, the small hatch had been left open. I covered my nose and mouth with my shirt and looked inside, using my phone as a flashlight. Something was floating in there, something rotten. Both of them had now arrived on the hill. My uncle just looked at me while I tried to grab the object, I could notice a horn. It must have been a goat. I grabbed it, trying to hoist it out using all my weight. I managed to get the entire head out of the water, or rather what was left of it. When the lower neck breached the surface, the goat just fell apart causing a terrible sloshing sound. I let go of the decomposing head, turned around and heaved like I never had before. Both of them were still just watching me, absentmindedly, as if I was just performing some curious ritual.
+> _"If you want we also have soda in the——"_
+
+Before she could finish, I sprinted the roughly 50 yards up the hill. The water tank was buried, so I checked the collection system, but the gutters looked clean, nothing but a few early fallen leaves. I frantically went around the hill in circles, looking for a hatch so I could inspect the inside, but then I noticed this smell again. I squinted my eyes and scanned the surroundings until I saw an opening. Coming closer, I could tell it was the source of this horrendous smell. Apparently, the small hatch had been left open. I covered my nose and mouth with my shirt and looked inside, using my phone as a flashlight. Something was floating in there, something rotten. Both of them had now arrived on the hill. My uncle just looked at me while I tried to grab the object, I could notice a horn. It must have been a goat. I grabbed it, trying to hoist it out using all my weight. I managed to get the entire head out of the water, or rather what was left of it. When the lower neck breached the surface, the goat just fell apart causing a terrible sloshing sound. I let go of the decomposing head, turned around and heaved like I never had before. Both of them were still just watching me, absentmindedly, as if I was just performing some inexplicable ritual.
 
 I still feel sick thinking about this. Who knows how long they had been drinking that water.
 
 Before I left, I pleaded with them to get a new water source, have prospector, dig a well. But they only wanted to hire someone to deep clean the cistern.
 
 _"You know, kid. Sometimes it is just too late."_
+
+As I walked down the hill back to my rental car looking back at the house and the meadow, I decided to take some time off before thinking about what I should do next.
