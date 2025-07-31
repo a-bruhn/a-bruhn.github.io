@@ -44,7 +44,7 @@ I immediately felt embarrassed having mentioned it. The conversation shifted to 
 
 It was still quite hot for September, so uncle Phil decided to prepare some fresh lemonade for us to enjoy. 
 
-> _"I'm sorry if I come off snappy sometimes,"_ aunt Marie suddenly uttered..
+> _"I'm sorry if I come off snippy sometimes,"_ aunt Marie suddenly uttered..
 >
 > _"Oh I hadn't noticed anything like that."_
 
