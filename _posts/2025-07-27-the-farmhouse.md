@@ -81,8 +81,9 @@ Before she could finish, I sprinted the roughly 50 yards up the hill. The water 
 
 I still feel sick thinking about this. Who knows how long they had been drinking that water.
 
-Before I left, I pleaded with them to get a new water source, have prospector, dig a well. But they only wanted to hire someone to deep clean the cistern.
+Before I left, I pleaded with them to get a new water source. Can't be too hard to get the permits needed to dig a well. But they only wanted to hire someone to deep clean the cistern.
 
-_"You know, kid. Sometimes it's just too late."_
+> _"You know, kid. Sometimes it's just too late."_
+> 
 
 As I walked down the hill back to my rental car looking back at the house and the meadow, I decided to take some time off before thinking about what I should do next.
