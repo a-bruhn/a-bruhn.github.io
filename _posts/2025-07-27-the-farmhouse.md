@@ -31,20 +31,20 @@ I had always loved these as a child, and even as a teenager during a time when I
 
 I immediately felt embarrassed having mentioned it. The conversation shifted to uncle Phil's newest project, an indie sci-fi film. I remember telling him how much I admired that he could work creatively and never had to be a corporate drone. He agreed, which brought us back to the topic of our last phone call, my studies. Uncle Phil assured me:
 
-> _"I know you're still figuring things out in your life. I cannot stres enough how important it is that you don't rush and take the first path that just presents itself."
+> _"I know you're still figuring things out in your life. I cannot stress enough how important it is that you don't rush and take the first path that just presents itself."
 >
 > _"I understand what you mean, but there is also a financial aspect. Dad is right, I cannot just drift all the time. I have to commit at some point. By the way, he told me to hug you from the family, both of you guys."_
 >
 > _"Send him our best wishes, dear. We will come visit maybe early next year, when it's still winter and there's not so much to do around here,"_ aunt Marie replied.
 >
 > _"I hope it may even be sooner. I miss you and your siblings so terribly. We don't see each other often, but I kind of think of you a bit as also my children,"_ uncle Phil interjected. I could see the honesty in that statement. However, he quickly apologized, as if coming to his sense:
-> _"I'm sorry, that must have sounded weird. Of course you are my brother's, but you know, It's sometimes strange where the mind takes you. Must be the scenery here."_
+> _"I'm sorry, that probably sounded weird. Of course you're my brother's kid, but you know, It's sometimes strange where the mind takes you. Must be the scenery here."_
 >
 > _"Just makes him contemplate, always the thinker, you know,"_ Marie hastily agreed.
 
 It was still quite hot for September, so uncle Phil decided to prepare some fresh lemonade for us to enjoy. 
 
-> _"I'm sorry if I come off snippy sometimes,"_ aunt Marie suddenly uttered..
+> _"I'm sorry if I come off snippy sometimes,"_ aunt Marie suddenly uttered.
 >
 > _"Oh I hadn't noticed anything like that."_
 
