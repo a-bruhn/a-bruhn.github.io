@@ -52,24 +52,24 @@ I really hadn't.
 
 > _"It's just that after more than two decades it's always very obvious when he's sad. He really wishes he could have spent more time with you guys. But he will be fine, it's just for the moment. Compromise and sacrifice are part of every relationship and one has to make sure not to wallow too much in one's own nobility,"_ she added.
 
-When uncle came back, he carried a big pitcher of a dark yellow liquid with freshly cut lemons and at least 3 cups of ice. He marched towards us from the house, holding it in one hand, with the other holding onto his beige summer hat. The condensation dripped from the glass onto the spotty grass, mimicking his pace.
+When uncle Phil came back, he carried a big pitcher of dark yellow liquid, filled with slices of freshly cut lemons and at least 3 cups of ice. He marched towards us from the house, holding it in one hand, with the other steadying his beige summer hat. Condensation dripped from the glass onto the spotty grass, matching his pace.
 
-The thirst-inducing image of the pitcher quickly turned sour when the color became clearer. It looked murky in a concerning way. And the smell: It was putrid, much worse than the coffee. I tried bringing my nose closer to inspect it but immediately began retching.
+The thirst-inducing image of the pitcher quickly soured as its color became more clearly discernible. It looked slightly murky in a concerning way. And the smell: It was putrid, much worse than the coffee. I leaned in to sniff, but immediately began retching.
 
-> _"Oh are you not feeling well, dear?,"_ Marie asked me, concerned.
+> _"Oh, are you not feeling well, dear?,"_ Marie asked me, concerned.
 >
-> _"What is in this water? Something's not right here"_, I stated under my own heavy breath.
+> _"What's in this water? Something's not right here"_, I stated under my own heavy breath.
 >
-> _"Oh it's just the way the water is out here. There must be rust in the pipes or the plumbing at the cistern up on the hill."_, my uncle reassured me.
+> _"Oh it's just the way the water is out here. There must be rust in the pipes or sediment in the cistern up on the hill."_, my uncle reassured me.
 >
 > _"We should renew the filter, it might not be strong enough anymore,"_ added Marie.
 > _"But we're used to it."_
 
 Before I could grasp the situation or even intervene, uncle Phil poured the liquid into their glasses and took a big sip.
 
-> _"See, it just takes some getting used to, but this is how life is in the countryside. It actually had been much worse a few weeks ago, but was already getting better."_
+> _"See? It just takes some getting used to, but this is how life is in the countryside. It actually had been much worse a few weeks ago, but was already getting better."_
 
-I couldn't believe my eyes. This was not normal. I screamed:
+I couldn't believe my eyes. This was not normal. I burst out:
 
 > _"Can't you understand? Something's with the water. This is not something you can ignore!"_
 
@@ -77,7 +77,7 @@ They just looked at me in shock, like I was experiencing an out-of-the-blue teen
 
 > _"If you want we also have soda in the——"_
 
-Before she could finish, I sprinted the roughly 50 yards up the hill. The water tank was buried, so I checked the collection system, but the gutters looked clean, nothing but a few early fallen leaves. I frantically went around the hill in circles, looking for a hatch so I could inspect the inside, but then I noticed this smell again. I squinted my eyes and scanned the surroundings until I saw an opening. Coming closer, I could tell it was the source of this horrendous smell. Apparently, the small hatch had been left open. I covered my nose and mouth with my shirt and looked inside, using my phone as a flashlight. Something was floating in there, something rotten. Both of them had now arrived on the hill. My uncle just looked at me while I tried to grab the object, I could notice a horn. It must have been a goat. I grabbed it, trying to hoist it out using all my weight. I managed to get the entire head out of the water, or rather what was left of it. When the lower neck breached the surface, the goat just fell apart causing a terrible sloshing sound. I let go of the decomposing head, turned around and heaved like I never had before. Both of them were still just watching me, absentmindedly, as if I was just performing some inexplicable ritual.
+Before she could finish, I sprinted the roughly 50 yards up the hill. The water tank was buried, so I checked the collection system, but the gutters looked clean, nothing but a few early fallen leaves. I frantically circled around the hill, looking for a hatch so I could inspect the inside, but then I noticed this smell again. I squinted my eyes and scanned the surroundings until I saw an opening. Coming closer, I could tell it was the source of this horrendous smell. Apparently, the small hatch had been left open. I covered my nose and mouth with my shirt and looked inside, using my phone as a flashlight. Something was floating in there, something rotten. Both of them had now arrived on the hill. My uncle just looked at me while I tried to get a grip of the alien object. I had to lean in further, so I instructed him to hold my phone. I took one deep breath, filling my mouth with the maximum tolerable volume of foul gasses. As I brought my face so close to the opening that the tank's metal touched my one of my cheeks, I suddenly spotted a horn. A poor goat must have fallen in through and drowned. I grabbed onto it, now trying to hoist it out using all my stength. With considerable effort, I managed to get the entire head out of the water, or rather what was left of it. I let out a deep groan and when the goat's lower neck finally breached the surface, the animal just fell apart. I can never forget the sloshing sound of decomposing body falling back into the tanks' water. I immediately let go of the decomposing head, turned around and heaved like I never had before. Both of them were still just watching me, absentmindedly, as if I was just performing some inexplicable ritual.
 
 I still feel sick thinking about this. Who knows how long they had been drinking that water.
 
