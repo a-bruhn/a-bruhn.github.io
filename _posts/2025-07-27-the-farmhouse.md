@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The farmhouse
+title: The Farmhouse
 date: 2025-07-27 17:00 +0200
 categories: [short-stories]
 tags: [fiction]
