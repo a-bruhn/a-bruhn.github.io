@@ -31,3 +31,5 @@ We'd thought the world was full of conspiracy theorists and generally nuts peopl
 At every family meal, I can see dad being sucked in further and further. I can of course empathize. It's a coping strategy. He's just trying to keep it together, but the tools are inherently destructive. He's becoming increasingly convinced that we haven't actually received an alien signal, that it's just a psy-op by "our enemies", whoever that currently is on the geopolitical stage, now that everything has been upended. 
 
 Dave's been even worse. 
+
+...TBC
