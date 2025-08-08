@@ -17,7 +17,7 @@ As he walked along the abandoned property, where a few years ago was still a mov
 > "_Oh I'm sorry"_, said the man in the white coat and moved to the side.
 >
 
-At the back wall, Henry could now read "_Each body part only $25_".
+At the back wall, Henry could now read _"Each body part only $25"._
 
 > "_Goes without saying though, I can only take something off, never attach,_" the white-cloaked vendor added. "_You'd be surprised how few people read the disclaimer._"
 >
