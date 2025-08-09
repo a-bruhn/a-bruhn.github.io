@@ -55,7 +55,7 @@ Still, the following Wednesday, as he neared the corner from which he had first 
 
 Arriving at work, Henry felt more confident than ever. Everyone was staring at him. He could feel their jealous eyes on him. Sleek as a rocket that has ejected its spent side boosters, he was on an unstoppable trajectory toward upper management. He was positively beaming with confidence and pride. When his boss took notice of Henry's new appearance, he immediately re-assigned an assistant to him. His own assistant, Henry couldn't believe it. No more writing reports by himself! 
 
-As the days went by, Henry got invited tof more and more meetings. The amount of overlapping rectangles in his outlook calendar was mind-boggling. People he had never heard of—important people in the company—wanted 1:1 time with *him*. The sheer amount of introductions and strategy talk took up all of Henry's energy and every night after work he crashed onto his bed like a felled tree.
+As the days went by, Henry got invited to more and more meetings. The amount of overlapping rectangles in his outlook calendar was mind-boggling. People he had never heard of—important people in the company—wanted 1:1 time with *him*. The sheer amount of introductions and strategy talk took up all of Henry's energy and every night after work he crashed onto his bed like a felled tree.
 
 At least, though, he did not need to worry about finding the doc the following Wednesday. A week prior, as he had let go of both his arms, he asked him whether he would station his cart again at the same street. 
 
