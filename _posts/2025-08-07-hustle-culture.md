@@ -10,30 +10,30 @@ On a typical Wednesday morning, Henry was on his way to work as a level-2 data a
 
 As he rounded the corner and began walking along the abandoned property, where a few years ago had still been a movie theater, he noticed something new—a blue-ish cart on the unregulated grass near the sidewalk. At first he didn't pay it much attention, as it looked just like a food truck at the park near his office, where he sometimes goes to have some surprisingly good tacos for lunch. The thought alone of freshly squeezed lemon dripping from his fingers and the sharp herbal smell of cilantro was mouth watering. _"Maybe they got something quick and tasty for the road."_ As he got closer, he could make out the lettering: *"Roadside Surgery"* and chuckled: _"must be artisanal ice cream or a novelty Korean waffle-donut hybrid. They know how the business works. You gotta have a great hook to lure in customers. They should consider a better location though."_ Upon further inspection, he noticed that the cart had seen better days, but that was not unusual. Most of the time, these trucks have seen many rounds of owners and only ever get a new paint job in-between enterprises. On this particular specimen, some rusty spots were very noticeable through the thin coat of glossy paint. And yet, Henry felt intrigued to peek around a bit. He could now really go for a snack before heading to the office and since he had no meetings before 10 a.m., there was no harm in arriving a few minutes late. Unfortunately, the serving window was completely shuttered down except for a small gap at the bottom. With piqued interest, Henry bent forward to take a look insight what kind of cuisine they were offering. Before he could make out anything a voice called out to him from the inside: _"Hey there, mister! The window's dysfunct, why don't you come around the side to the back of the cart."_ Peculiar as this was, Henry was now invested. As he arrived at the back hatch, a strong whiff of antiseptic hit him. Inside, he saw an older man in a white coat vigorously scrubbing metallic cutlery in the cart's tiny plastic sink. The long teal rubber gloves reaching nearly to his shoulders were lined with pinkish bubbles. Caused by his forceful movements, they sometimes detached and slowly floated to the cart's crimson linoleum floor, where they vanished into small puddles. As he noticed Henry, he turned around with a big warm smile to greet him: 
 
-> "_Hello, there! What can I get you from our menu?_"
+> _"Hello, there! What can I get you from our menu?"_
 >
-> "_What menu? I don't see any food items listed. What's your specialty?_"
+> _"What menu? I don't see any food items listed. What's your specialty?"_
 >
-> "_Oh I'm sorry"_, said the man in the white coat and moved to the side.
->
-
-At the back wall, Henry could now read _"Each body part only $25"._
-
-> "_Goes without saying though, I can only take something off, never attach,_" the white-cloaked vendor added. "_You'd be surprised how few people read the disclaimer._"
+> _"Oh I'm sorry"_, said the man in the white coat and moved to the side.
 >
 
-Henry thought about it for a while, and was about to leave, as he remembered his promise to himself from just a few minutes ago. Did he really want to waste another opportunity and just arrive at work as usual, do the required amount of work, and then head home again and be depressed? No! I don't want to continue like this! The stench of sticky keyboards, of break room yogurt containers, and sweaty team building exercises—to hell with it. _Odor laboris_, not any more! 
+At the back wall, there was a plastic sign, where Henry could now read in big letters _"Each body part only $25"._
 
-> "_Let's get rid of the nose, doc._", proclaimed Henry energetically.
+> _"Goes without saying though, I can only take something off, never attach,"_ the white-cloaked vendor added. _"You'd be surprised how few people actually read the disclaimer below the price."_
 >
-> "_Excellent choice! That'll be 25 bucks, my friend._"
+
+Henry thought about it for a while, and was already about to leave, as he remembered his promise to himself from just a few minutes ago. Did he really want to waste another opportunity and just arrive at work as usual, do the required amount of work, and then head home again and be depressed? _"No! I don't want to continue like this! The stench of sticky keyboards, of break room yogurt containers, and sweaty team building exercises—to hell with it. Odor laboris, not any more!"_ 
+
+> _"Let's get rid of the nose, doc,"_ Henry proclaimed energetically.
+>
+> _"Excellent choice! That'll be 25 bucks, my friend."_
 >
 
 An hour later, as Henry swiped his key-card at the office elevator, still with the taste of iron on his tongue, he began to feel self-conscious. How would his colleagues react to his transformation. No one said a word to his new haircut last week, but this change was a bit more on the nose. He had a good chuckle at this ad-hoc wordplay as the elevator moved up to his floor. 
 
-As expected, nothing unusual happened until lunch and none of his colleagues mentioned anything, although there were a bewildered looks to the gaping opening in the center of his face. And yet, he was in good spirits as he entered the communal kitchen nook in the break room to grab a snack. The smell of the sink and the surrounding accumulation of unwashed coffee mugs and used dishes dumped there by his colleagues just did not bother him anymore. "_I made a great choice._" Emboldened, he decided to be the one to do something against the decay of the break room, pulled up his sleeves and began washing the dishes. Food residue and slightly moldy teabags did not seem half as bad, if you didn't have to smell them. As he was about to finish, he heard a voice call out to him:
+As expected, nothing unusual happened until lunch and none of his colleagues mentioned anything, although there were a bewildered looks to the gaping opening in the center of his face. And yet, he was in good spirits as he entered the communal kitchen nook in the break room to grab a snack. The smell of the sink and the surrounding accumulation of unwashed coffee mugs and used dishes dumped there by his colleagues just did not bother him anymore. _"I made a great choice._" Emboldened, he decided to be the one to do something against the decay of the break room, pulled up his sleeves and began washing the dishes. Food residue and slightly moldy teabags did not seem half as bad, if you didn't have to smell them. As he was about to finish, he heard a voice call out to him:
 
-> "_Wow Henry, your a real go-getter, aren't you. I'm positively surprised. You even look like you enjoyed the extra work._"
+> _"Wow Henry, your a real go-getter, aren't you. I'm positively surprised. You even look like you enjoyed the extra work._"
 >
 >"_Thank you, Tobias, doing my best,_" Henry confidently replied to the regional director without much turning his head, putting the last dishes onto the drying rack.
 >
@@ -42,15 +42,15 @@ The afternoon, and in fact the next few days were even better. Henry was full of
 
 Still, the following Wednesday, as he neared the corner from which he had first spotted *"Roadside Surgery"* just a week before, he began to feel nervous. What if it never appeared again? How would he then get ahead? Alas, there it was, standing at the same spot. the windows still shuttered down. Henry went around the side to check for the doctor. Henry could not see him inside, but as he moved closer, he felt a hand on his shoulder:
 
-> "_Hello my friend, are you satisfied with your last purchase?_"
+> _"Hello my friend, are you satisfied with your last purchase?_"
 >
-> "_Very much so. I just came by to give you my regards for the well executed operation_," replied Henry.
+> _"Very much so. I just came by to give you my regards for the well executed operation_," replied Henry.
 >
-> "_Very well, I'm glad to hear it. Can I get you anything today? Maybe an arm? Th right one or the left?_"
+> _"Very well, I'm glad to hear it. Can I get you anything today? Maybe an arm? Th right one or the left?_"
 >
-> "_No I don't think I need anything today._" Henry hesitated. "Just in case, what was the price again?_"
+> _"No I don't think I need anything today._" Henry hesitated. "Just in case, what was the price again?_"
 >
-> "_Still $25 fix—although, we have combos. I can take two arms for $35. Once the saw is dirty, there's not much additional effort. The manpower goes mostly into the cleaning up afterwards._"
+> _"Still $25 fix—although, we have combos. I can take two arms for $35. Once the saw is dirty, there's not much additional effort. The manpower goes mostly into the cleaning up afterwards._"
 >
 
 Arriving at work, Henry felt more confident than ever. Everyone was staring at him. He could feel their jealous eyes on him. He was positively beaming. When his boss saw Henry's new appearance, he re-assigned an assistant to him. His own assistant, Henry couldn't believe it. No more writing reports by himself! 
@@ -59,7 +59,7 @@ As the days went by, Henry got invited to more and more meetings. The amount of 
 
 At least, though, he did not need to worry about finding the doc the following Wednesday. A week prior, as he had asked him whether he would station his cart again at the same street. 
 
-> "_Of course, as long as I have customers here I will come,_" had the doc replied.
+> _"Of course, as long as I have customers here I will come,_" had the doc replied.
 >
 
 And so, another week passed and Henry did not need to introduce himself to people any more. He could—he just wouldn't be able to understand the other party, as the doc had removed both his outer and inner ears. All that for just $35. Henry wondered, how the man could make a living with these prices. His new situation required some further adjustments and so he devised the five-page memo, which was _one more efficient than the industry standard._ Handing him their memos, all the colleagues who just a month ago would not care for his opinion one bit, now feared his critique and deeply valued his feedback. Somehow, he managed to become the central technical authority in his business unit. All this within the span of a few weeks. 
@@ -70,4 +70,4 @@ One report, drafted by his old department for that matter, was particularly unde
 
 Henry was very pleased with himself and so was the C-suite, which had long taken note of him and the steady leadership he had over his business unit. The success of the company could rest easily on his stubby shoulders.
 
-> "_Soon, they're going to make me CEO and I'll be interviewed by Business Insider._"
+> _"Soon, they're going to make me CEO and I'll be interviewed by Business Insider._"
