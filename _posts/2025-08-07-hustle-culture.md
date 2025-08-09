@@ -70,4 +70,4 @@ And so, another successful week had passed. Had his words carried enormous weigh
 
 A delicate situation arised as one report, unfortunately drafted by his own former department, was particularly underwhelming in both style and results. This was of course an embarrassing situation for him, as he had taken considerable pride in his origination from this team and expected only the best work from his former colleagues. The following re-organization was therefore swift and within the same day, nine under-performers had to clean out their desks, as the rest were merged with another department. Henry could be very pleased with himself and so was the C-suite, which had long taken note of him and the steady leadership he had over his business unit. As he was told in a joyful tone on more than one occasion, the success of the company could rest easily on his stubby shoulders.
 
-> _"Soon, they're going to make me CEO and I'll be interviewed by Business Insider._"
+> _"Soon, they're going to make me CEO and I'll be interviewed by Business Insider."_
