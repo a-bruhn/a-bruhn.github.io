@@ -53,7 +53,7 @@ Still, the following Wednesday, as he neared the corner from which he had first 
 > _"Still $25 flat—although, we have combos. I can take two arms for $35. Once the saw is dirty, there's not much additional effort. The manpower goes mostly into the cleaning up afterwards."_
 >
 
-Arriving at work, Henry felt more confident than ever. Everyone was staring at him. He could feel their jealous eyes on him. Sleek as a rocket that has ejected its spent side boosters, he was on an unstoppable trajectory toward upper management. He was positively beaming with confidence and pride. When his boss took notice of Henry's new appearance, he immediately re-assigned an assistant to him. His own assistant, Henry couldn't believe it. No more writing reports by himself! 
+Arriving at work, Henry felt more confident than ever. Everyone was staring at him. He could feel their jealous eyes on him. Sleek as a rocket having just jettisoned its spent side boosters, he was on an unstoppable trajectory toward upper management. He was positively beaming with confidence and pride. When his boss took notice of Henry's new appearance, he immediately re-assigned an assistant to him. His own assistant, Henry couldn't believe it. No more writing reports by himself! 
 
 As the days went by, Henry got invited to more and more meetings. The amount of overlapping rectangles in his outlook calendar was mind-boggling. People he had never heard of—important people in the company—wanted 1:1 time with *him*. The sheer amount of introductions and strategy talk took up all of Henry's energy and every night after work he crashed onto his bed like a felled tree.
 
