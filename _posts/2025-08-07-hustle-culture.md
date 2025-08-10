@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hustle Culture
+title: Roadside Surgery
 date: 2025-08-07 21:09 +0200
 categories: [short-stories]
 tags: [fiction]
