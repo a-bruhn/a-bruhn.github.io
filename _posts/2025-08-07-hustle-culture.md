@@ -33,7 +33,7 @@ An hour later, as Henry swiped his key-card at the office elevator, still with t
 
 As expected, nothing unusual happened until lunch and none of his colleagues mentioned anything, although there were a few slightly bewildered looks as to the gaping double opening in the center of his face. And yet, he was in good spirits as he entered the communal kitchen nook in the break room to finally grab a well-deserved snack. The smell from the sink drain and the surrounding accumulation of unwashed mugs and dishes dumped there by his colleagues just didn't bother him anymore. _"I made a great choice,"_ he thought to himself. Invigorated, he decided to be the person to finally do something against the decay of the break room. He pulled up his sleeves and began washing the dishes. Scrubbing off food residue and touching slightly moldy teabags did not seem half as bad, if you didn't have to smell them. As he was about to finish, he heard a voice call out to him:
 
-> _"Wow Henry, your a real go-getter, aren't you. I'm positively surprised. You actually look like you’re enjoying the extra work."_
+> _"Wow Henry, you're a real go-getter, aren't you. I'm positively surprised. You actually look like you’re enjoying the extra work."_
 >
 > _"Thank you, Toby, doing my best,"_ he confidently replied to the regional director without much turning his head, as he put the last dishes onto the drying rack.
 >
