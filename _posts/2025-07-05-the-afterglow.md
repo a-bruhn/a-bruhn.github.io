@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Afterglow
+title: (Unfinished) Afterglow
 date: 2025-07-05 12:28 +0200
 categories: [short-stories]
-tags: [science fiction, fiction]
+tags: [science fiction, fiction, unfinished]
 ---
 
 ## 1
