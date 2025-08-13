@@ -29,7 +29,7 @@ derelict children or
 whatever.  
 Hyperreal fixations  
 for the survival of the user base,  
-staked on aunts, draped in red flags.  
+staked on aunts draped in red flags.  
 Devoid of meaning,  
 essentially, utterly.  
 Delulu.  
