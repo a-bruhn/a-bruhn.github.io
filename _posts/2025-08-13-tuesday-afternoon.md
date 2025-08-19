@@ -10,7 +10,7 @@ To the late are left the bones:
 circumspect contortions,  
 hours and hours of  
 yogurt café reviews with  
-anti-therapy sponsorships,  
+therapy supplement sponsorships,  
 the friction of misshapen thumbs  
 that you can hear on silent days  
 against the backdrop of—  
