@@ -24,7 +24,7 @@ Aunt Marie went to get coffee as we sat taking in the surroundings. I couldn't r
 >
 > _"My grandmother's recipe"_, she added, the cookies' large sugar crystals twinkling in the afternoon sun.
 
-I remembered loving these as a child, even though I used to be a terribly picky eater. Still, I would practically inhale several dozen whenever we visited. Aunt Marie poured our coffee into these spectacular moss rose cups with finely enameled flowers—no doubt an heirloom from her family—set out on the rubber cloth. I relished in the contrast this provided. This more natural life was so much different from the carefully crafted settings at the coffee shops in the city or even at my parents' house. Soon, I began to notice something being off, however. Within seconds, I discovered it to be the coffee, whose smell didn't mix well with the sweetness of the cookies and the late summer air. As I inspected my cup, I saw that it was covered in fine hairline fissures, only visible on the cups' inside by way of the dark murky coffee seeping into them. Given the cermamics' age of at least a hundred years, they were still in very good shape, just not as immaculate as I had first presumed. As I brought my cup closer to my face, the smell of the coffee became even harsher, maybe even foul. Since the others seemed unbothered by it, I decided to just try it. Maybe this was merely a more sophisticated variety, a taste I had yet to acquire. I also kind of didn't want them to think I was a stereotypical college kid, sipping syrupy concoctions from faux-recyclable paper cups, even though that was precisely the case. Unfortunately, the taste, too, was just horrible. 
+I remembered loving these as a child, even though I used to be a terribly picky eater. Still, I would practically inhale several dozen whenever we visited. Aunt Marie poured our coffee into these spectacular moss rose cups with finely enameled flowers—no doubt an heirloom from her family—set out on the rubber cloth. I relished in the contrast this provided. This more natural life was so much different from the carefully crafted settings at the coffee shops in the city or even at my parents' house. Soon, I began to notice something being off, however. Within seconds, I discovered it to be the coffee, whose smell didn't mix well with the sweetness of the cookies and the late summer air. As I inspected my cup, I saw that it was covered in fine hairline fissures, only visible on the cups' inside by way of the dark murky coffee seeping into them. Given the cermamics' age of at least a hundred years, they were still in very good shape, just not as immaculate as I had first presumed. As I brought my cup closer to my face, the smell of the coffee became even harsher, maybe even foul. Since the others seemed unbothered by it, I decided to just try it. Maybe this was merely a more sophisticated variety, a taste I had yet to acquire. I also kind of didn't want them to think I was the stereotypical college kid, sipping syrupy concoctions from faux-recyclable paper cups, even though that was precisely the case. Unfortunately, the taste, too, was just horrible. 
 
 > _"I'm sorry, but do you think the beans might have gone bad? This coffee tastes a bit off."_
 >
@@ -48,48 +48,50 @@ I was a bit stunned by that statement. I was the only one in our family he was r
 >
 > _"Just makes him contemplate, always the thinker, you know,"_ Marie hastily agreed.
 
-It was still quite hot for September, so uncle Phil decided to prepare some fresh lemonade for us to enjoy. 
+It was still quite hot for September, so uncle Phil decided to prepare some fresh lemonade for us to enjoy, leaving Marie and myself at the table.
 
-> _"I'm sorry if I come off snippy sometimes,"_ aunt Marie suddenly uttered.
+> _"I'm sorry if I come off snippy sometimes,"_ she suddenly uttered.
 >
 > _"Oh I hadn't noticed anything like that."_
 
 I really hadn't. 
 
-> _"It's just that after more than two decades it's always very obvious when he's sad. He really wishes he could have spent more time with you guys. But he will be fine, it's just for the moment. Compromise and sacrifice are part of every relationship and one has to make sure not to wallow too much in one's own nobility,"_ she added.
+> _"It's just that after more than two decades it's always very obvious when he's sad. He really wishes he could have spent more time with you guys. But he will be fine, it's just momentary. Compromise and sacrifice are part of every relationship and one has to make sure not to wallow too much in one's own nobility,"_ she added.
 
-When uncle Phil came back, he carried a big pitcher of dark yellow liquid, filled with slices of freshly cut lemons and at least 3 cups of ice. He marched towards us from the house, holding it in one hand, with the other steadying his beige summer hat. Condensation dripped from the glass onto the spotty grass, matching his pace.
+When he came back, he carried a big pitcher of yellow lemonade, filled to the brim with lemon slices and at least three cups of ice. As he had marched toward us from the house, he had held it in one hand, while with the other steadying his beige summer hat against the occasional breeze. I watched the condensation drip from the ice-cold glass onto the ground, his steps forming the pace of the helpless droplets' sacrificial plunge.
 
-The thirst-inducing image of the pitcher quickly soured as its color became more clearly discernible. It looked slightly murky in a concerning way. And the smell: It was putrid, much worse than the coffee. I leaned in to sniff, but immediately began retching.
+The thirst-inducing image of the pitcher, however, quickly soured as its color became more clearly discernible. It just looked extremely murky. Concerningly, it didn't seem to be lemon pulp floating around in the liquid. Much, much worse, however, was the smell: putrid, leagues of disgust beyond the coffee. I leaned in to investigate with a sniff, but immediately began retching.
 
-> _"Oh, are you not feeling well, dear?,"_ Marie asked me, concerned.
+> _"Oh, are you not feeling well, dear?,"_ Marie asked me, sincerely concerned.
 >
-> _"What's in this water? Something's not right here"_, I stated under my own heavy breath.
+> _"What's in this water? Something's not right here"_, I  barely got out while trying to hold my breath.
 >
-> _"Oh it's just the way the water is out here. There must be rust in the pipes or sediment in the cistern up on the hill."_, my uncle reassured me.
+> _"Oh it's just the way the water is out here. There must be rust in the pipes or sediment in the cistern up on the hill where we get it from."_, my uncle tried to reassure me.
 >
-> _"We should renew the filter, it might not be strong enough anymore,"_ added Marie.
+> _"We should renew the filter, it might not be strong enough anymore,"_ Marie added sympathetically.
 > _"But we're used to it."_
 
 Before I could grasp the situation or even intervene, uncle Phil poured the liquid into their glasses and took a big sip.
 
-> _"See? It just takes some getting used to, but this is how life is in the countryside. It actually had been much worse a few weeks ago, but was already getting better."_
+> _"See? It just takes some getting used to, but this is how life is in the countryside. It had actually been much worse a few weeks ago, but was already getting better."_
 
-I couldn't believe my eyes. This was not normal. I burst out:
+I couldn't believe my eyes and ears. What were they talking about? This was not normal. I burst out:
 
-> _"Can't you understand? Something's with the water. This is not something you can ignore!"_
+> _"Can't you understand? Something's with the water. Something terrible. This is not something you can ignore!"_
 
-They just looked at me in shock, like I was experiencing an out-of-the-blue teenage outburst.
+They just looked at me in shock, like *I* was unreasonable or experiencing some sort of manic fit.
 
 > _"If you want we also have soda in the——"_
 
-Before she could finish, I sprinted the roughly 50 yards up the hill. The water tank was buried, so I checked the collection system, but the gutters looked clean, nothing but a few early fallen leaves. I frantically circled around the hill, looking for a hatch so I could inspect the inside, but then I noticed this smell again. I squinted my eyes and scanned the surroundings until I saw an opening. Coming closer, I could tell it was the source of this horrendous smell. Apparently, the small hatch had been left open. I covered my nose and mouth with my shirt and looked inside, using my phone as a flashlight. Something was floating in there, something rotten. Both of them had now arrived on the hill. My uncle just looked at me while I tried to get a grip of the alien object. I had to lean in further, so I instructed him to hold my phone. I took one deep breath, filling my mouth with the maximum tolerable volume of foul gasses. As I brought my face so close to the opening that the tank's metal touched my one of my cheeks, I suddenly spotted a horn. A poor goat must have fallen in and drowned. Now seeing what it was I managed to grab onto it, trying to hoist it out using all my stength. With considerable effort, I was able to get the entire head out of the water, or rather what was left of it. I let out a deep groan and when the goat's lower neck finally breached the surface, the animal just fell apart. I can never forget the sloshing sound of its decomposing body falling back into the tanks' water. I immediately let go of the decomposing head, turned around and heaved like I never had before. Both of them were still just watching me, absentmindedly, as if I was just performing some inexplicable ritual.
+Before she could finish, I sprinted the roughly 50 yards up the hill. The water tank was buried, so I checked the collection system, but the gutters looked clean, nothing but a few early fallen leaves. I began to frantically circle around the hill, looking for a hatch so I could inspect the inside. After a while, I noticed this smell again. I squinted my eyes and scanned the surroundings until I saw an opening. Coming closer, I could tell I was at the source of whatever horrible awaited me. Apparently, a small service hatch had been left open. I covered my nose and mouth with my shirt and looked inside, using my phone as a flashlight. Something was floating in there, something seriuously rotten. Both of them had now arrived on the hill. Her scared face in profile, as she looked at him questioningly. His wide eyes as he stared at my desperate attempts to get a grip of the alien object.
 
-I still feel sick thinking about this. Who knows how long they had been drinking that water.
+I had to lean in further, so I instructed him to hold my phone. I took one deep breath, filling my mouth with the maximum tolerable volume of foul gasses from the outside air. As I brought my face so close to the opening that the tank's metal touched my one of my cheeks, I suddenly spotted a horn. A poor goat must have fallen in and drowned. Now knowing what the object was, I managed to grab onto it, now trying to hoist it out. Taking up all my strength, I was somehow able to get the entire head out of the water—or rather what was left of it. I let out a deep groan as I pulled and when the goat's lower neck finally breached the surface, the animal just fell apart. I will never be able to forget the sloshing sound of its decomposing body falling back into the tanks' water. I immediately let go of the decomposing head, turned around and heaved like I never had before in my life. Both of them were still just standing there, watching absentmindedly, as if I was just performing some inexplicable ritual.
 
-Before I left, I pleaded with them to get a new water source. Can't be too hard to get the permits needed to dig a well. But they only wanted to hire someone to deep clean the cistern.
+I still feel sick just thinking about this experience. Who knows how long they had been drinking that water.
 
-> _"You know, kid. Sometimes it's just too late."_
+Before I left, I pleaded with them to please find a new source of water. It couldn't be too hard to get the permits needed to dig a well. However, they only wanted to hire someone to deep clean the cistern.
+
+> _"You know, kid. Sometimes it's just too late for these kinds of big changes."_
 > 
 
-As I walked down the hill back to my rental car looking back at the house and the meadow, I decided to take some time off before thinking about what I should do next.
+As I walked down the hill back to my rental car, looking back at the house and the meadow, I decided to take some time off before thinking about what I should do next.
