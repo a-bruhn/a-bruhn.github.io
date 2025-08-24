@@ -32,7 +32,7 @@ I remembered loving these as a child, even though I used to be a terribly picky 
 >
 > _"You are probably used to a lot better coffee at your university,"_ uncle Phil added. I could see a bit of earnest shame in his face.
 
-I immediately felt embarrassed having mentioned it. I was relieved, when the conversation shifted to uncle Phil's newest project, an indie sci-fi film. I told him how much I admired that he could work creatively and never had to be a corporate drone. He agreed, which brought us back to the topic of our last phone call, my studies. Uncle Phil assured me:
+I immediately felt embarrassed having mentioned it. I was relieved, when the conversation shifted to uncle Phil's newest project, an indie sci-fi film. I told him how much I admired that he could work creatively and never had to be a corporate drone. This brought us back to the topic of our last phone call, my studies. His usual self, uncle Phil assured me:
 
 > _"I know you're still figuring things out in your life. I cannot stress enough how important it is that you don't rush and take the first path that just presents itself."
 >
@@ -40,8 +40,11 @@ I immediately felt embarrassed having mentioned it. I was relieved, when the con
 >
 > _"Send him our best wishes, dear. We will come visit maybe early next year, when it's still winter and there's not so much to do around here,"_ aunt Marie replied.
 >
-> _"I hope it may even be sooner. I miss you and your siblings so terribly. We don't see each other often, but I kind of think of you a bit as also my children,"_ uncle Phil interjected. I could see the honesty in that statement. However, he quickly apologized, as if coming to his sense:
-> _"I'm sorry, that probably sounded weird. Of course you're my brother's kid, but you know, It's sometimes strange where the mind takes you. Must be the scenery here."_
+> _"I hope it may even be sooner. I miss you and your siblings so terribly. We don't see each other often, but I kind of think of you a bit as also my children,"_ uncle Phil interjected.
+
+I was a bit stunned by that statement. I was the only one in our family he was really talking to and our contact had exclusively been remote for the past few years. But I could also feel the honest vulnerability in his face as he said it. Before I could ponder it more, he quickly apologized, as if suddenly coming to his senses:
+
+> _"I'm sorry, that probably sounded weird. Of course you're my brother's kid, but you know, it's sometimes strange where the mind takes you. Must be the scenery here."_
 >
 > _"Just makes him contemplate, always the thinker, you know,"_ Marie hastily agreed.
 
