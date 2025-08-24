@@ -16,7 +16,6 @@ The farm belonged to Marie's parents. After they died in the early aughts, uncle
 
 Aunt Marie went to get coffee as we sat taking in the surroundings. I couldn't remember it being so beautiful here.
 
->
 > _"I cannot imagine this ever getting old, uncle Phil. Everything is just so alive."_
 >
 > _"You know, I've spent an uncountable amount of hours here. And you're right, it doesn't get old. It just feels more and more wistful with every year. You look out so much into the dawning meadow, the hills and everything—it makes you contemplate too much,"_ he said.
@@ -25,15 +24,15 @@ Aunt Marie went to get coffee as we sat taking in the surroundings. I couldn't r
 >
 > _"My grandmother's recipe"_, she added, the cookies' large sugar crystals twinkling in the afternoon sun.
 
-I remembered loving these as a child, even though I used to be a terribly picky eater. Still, I would eat several dozen sugar cookies whenever we visited. Aunt Marie poured our coffee into the fine moss rose cups with fine pinkish enameled flowers—no doubt an heirloom from her family—set out on the rubber cloth. I relished in the contrast. This more natural life was so much different from the carefully crafted settings at the coffee shops in the city or even at my parents' house. I began to notice the smell of the coffee, however, which didn't mix well with the sweetness of the cookies and the late summer air. Looking closer at the cups, I could see lots of tiny cracks in them, only visible due to the dark murky coffee filling into them, thus creating the contrast required to discover them. Given their age of at least a hundred years, they were still in very good shape, just not as immaculate as I had first presumed. Bringing the cup to my face, the smell of the coffee became harsher and nearly foul. Since there are all kinds of different types of coffee beans, I brought myself to take a sip. Maybe this was an exotic variety, like the one brewed from beans digested by monkeys. I also didn't want to have them think I'm the typical _caramel macchiato_ college student type (although in reality I really was). But—the taste was also terrible, maybe even slightly foul.
+I remembered loving these as a child, even though I used to be a terribly picky eater. Still, I would practically inhale several dozen whenever we visited. Aunt Marie poured our coffee into these spectacular moss rose cups with finely enameled flowers—no doubt an heirloom from her family—set out on the rubber cloth. I relished in the contrast this provided. This more natural life was so much different from the carefully crafted settings at the coffee shops in the city or even at my parents' house. Soon, I began to notice something being off, however. Within seconds, I discovered it to be the coffee, whose smell didn't mix well with the sweetness of the cookies and the late summer air. As I inspected my cup, I saw that it was covered in fine hairline fissures, only visible on the cups' inside by way of the dark murky coffee seeping into them. Given the cermamics' age of at least a hundred years, they were still in very good shape, just not as immaculate as I had first presumed. As I brought my cup closer to my face, the smell of the coffee became even harsher, maybe even foul. Since the others seemed unbothered by it, I decided to just try it. Maybe this was merely a more sophisticated variety, a taste I had yet to acquire. I also kind of didn't want them to think I was a stereotypical college kid, sipping syrupy concoctions from faux-recyclable paper cups, even though that was precisely the case. Unfortunately, the taste, too, was just horrible. 
 
-> _"I'm sorry, but do you think the beans might have gone bad? The coffee tastes a bit off."_
+> _"I'm sorry, but do you think the beans might have gone bad? This coffee tastes a bit off."_
 >
-> _"Oh ,I'm so sorry dear, that's just how it always tastes. We're not exactly connoisseurs, we just like to drink a cup here and there and buy our beans in a 50 pound bag, when we drive out to the big chain store. We don't even know what kind we're buying, we just take the cheapest one,"_ Marie replied.
+> _"Oh, I'm so sorry dear, that's just how it always tastes. We're not exactly connoisseurs, we just like to drink a cup here and there and buy our beans in a 50 pound bag, when we drive out to the big chain store. We don't even know what kind we're buying, we usually just take the cheapest one,"_ Marie replied.
 >
 > _"You are probably used to a lot better coffee at your university,"_ uncle Phil added. I could see a bit of earnest shame in his face.
 
-I immediately felt embarrassed having mentioned it. The conversation shifted to uncle Phil's newest project, an indie sci-fi film. I remember telling him how much I admired that he could work creatively and never had to be a corporate drone. He agreed, which brought us back to the topic of our last phone call, my studies. Uncle Phil assured me:
+I immediately felt embarrassed having mentioned it. I was relieved, when the conversation shifted to uncle Phil's newest project, an indie sci-fi film. I told him how much I admired that he could work creatively and never had to be a corporate drone. He agreed, which brought us back to the topic of our last phone call, my studies. Uncle Phil assured me:
 
 > _"I know you're still figuring things out in your life. I cannot stress enough how important it is that you don't rush and take the first path that just presents itself."
 >
