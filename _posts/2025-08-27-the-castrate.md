@@ -11,7 +11,7 @@ nourish from
 the coolness of a creek  
 
 The scarlet freshness  
-on his hide telling cruely  
+on his hide telling cruelly  
 of a summer cut short by providence  
 
 Soon, the break of night uncovers  
