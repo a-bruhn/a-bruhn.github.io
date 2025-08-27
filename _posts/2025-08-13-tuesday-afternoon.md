@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tuesday Afternoon
+title: Delulu
 date: 2025-08-13 09:14 +0200
 categories: [poems]
 tags: [poetry]
