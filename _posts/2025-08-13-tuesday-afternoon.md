@@ -24,8 +24,9 @@ to the end of the end of the over-
 abundance/over-load of  
 empathy  
 of the first kind:  
-of starving kittens, of  
-derelict children or  
+of all the small catastrophes, of  
+hurt, and its engagements, of  
+starving kittens or  
 whatever.  
 Hyperreal fixations  
 for the survival of the user base,  
